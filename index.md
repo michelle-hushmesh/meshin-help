@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Need some help?  Browse the categories below.
 
 You can use the [editor on GitHub](https://github.com/michelle-hushmesh/meshin-help/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
